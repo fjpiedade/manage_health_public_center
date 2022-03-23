@@ -1,0 +1,15 @@
+configuração
+	-Categoria
+	-Departame
+	-Funcao
+	-Seccao
+Utilizadores
+	-visulizar
+	-novo
+Tarefas
+	-Ponto
+	-Efe
+	-Proc
+	-Notif
+	-Tran
+	
