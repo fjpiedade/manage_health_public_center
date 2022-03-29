@@ -1,8 +1,4 @@
 # manage_health_public_center
-Php web application help employers of health public center manage the documentations and controle of work time in month.
-Technologies used
-Php
-PDO framework to connection with databae and manipulations
-MySQL as Database
-Excel file uploded
-PDF export file
+A web application with the purpose of helping a public health center. The application performs document management, generation of notes, orders, and statements, control of work times integrated by files generated from biometric equipment.
+Developed in Php and MySQL as DB, library tcpdf for reporting, import Excel format to Database.
+
